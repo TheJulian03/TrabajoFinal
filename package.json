@@ -1,0 +1,20 @@
+{
+  "name": "my-devops-project",
+  "version": "0.1.0",
+  "description": "Simple webpage",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo 'No tests specified'",
+    "build": "echo 'No build necessary'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MjMorillo22/DevopsFinal.git"
+  },
+  "author": "Marcos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MjMorillo22/DevopsFinal/issues"
+  },
+  "homepage": "https://mjmorillo22.github.io/DevopsFinal/"
+}
